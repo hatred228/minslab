@@ -1,0 +1,9 @@
+# Binaries and build artifacts
+build/
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+.vscode/
+.idea/
